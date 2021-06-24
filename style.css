@@ -1,0 +1,10 @@
+.wrap {
+	width:85%;
+	margin:20px auto 0px auto;
+	background-color:#fff;
+	padding: 50px 30px 50px 50px;
+}
+
+body {
+	background-color:gray;
+}
